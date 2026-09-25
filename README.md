@@ -1,3 +1,3 @@
 # 5toRojo-Flavia-Montoya
 Repositorio pensamiento computacional 
-Primera clase: crezcion de repositorio 
+Primera clase: creación de repositorio 
